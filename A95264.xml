@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the reducing the city of Naples to the obedience of the king of Spaine, which happened on the 5, of April 1648. Being Palm-Sunday. Together, with the imprisonment of the duke of Guise, and liberty of the duke of Tursis. With the resolution and declaration of the Spanish generall, concerning the French fleete, and their proceedings thereupon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95264</idno>
+            <idno type="STC">Wing T3034</idno>
+            <idno type="STC">Thomason E438_18</idno>
+            <idno type="STC">ESTC R204762</idno>
+            <idno type="EEBO-CITATION">99864224</idno>
+            <idno type="PROQUEST">99864224</idno>
+            <idno type="VID">161658</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95264)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161658)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E438[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the reducing the city of Naples to the obedience of the king of Spaine, which happened on the 5, of April 1648. Being Palm-Sunday. Together, with the imprisonment of the duke of Guise, and liberty of the duke of Tursis. With the resolution and declaration of the Spanish generall, concerning the French fleete, and their proceedings thereupon.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. for I.I.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII.[1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May. 5".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Naples (Italy) --  History --  1503-1734 --  Early works to 1800.</term>
+               <term>Spain --  Foreign relations --  1621-1665 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161658:1" rendition="simple:additions"/>
+            <p>A true RELATION Of the reducing The City of Naples To the <hi>OBEDJENCE</hi> Of the KING of SPAINE, WHICH Happened on the 5, of April 1648.</p>
+            <p>Being <hi>Palm-Sunday.</hi>
+            </p>
+            <p>TOGETHER, With the Impriſonment of the Duke of <hi>Guiſe,</hi> and liberty of the Duke of <hi>Turſis.</hi>
+            </p>
+            <p>WITH The Reſolution and Declaration of the <hi>Spaniſh</hi> Generall, concerning the <hi>French</hi> Fleete, and their proceedings thereupon.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. C.</hi> for <hi>I. I.</hi> MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161658:2"/>
+            <pb n="1" facs="tcp:161658:2"/>
+            <head>A true RELATION OF The reducing of the City of NAPLES to the obedience of the King of SPAINE.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He troubles of the City of <hi>Naples,</hi> be<g ref="char:EOLhyphen"/>gun and continued for theſe tenne moneths ſpace, with ſo great a deſtru<g ref="char:EOLhyphen"/>ction &amp; revolution of almoſt the whole Kingdome, to the great diſtraction of the King of <hi>Spains</hi> forces, and prejudice not onely of that peace of <hi>Italy,</hi> but e<g ref="char:EOLhyphen"/>ven of the univerſall peace ſo neceſſary to all Chriſtendome, which troubles were fomented partly by the <hi>French,</hi> who in all diligence were preparing a ſuccour of foure thouſand foote, and eight hundred horſe; partly by the private intelligence and practi<g ref="char:EOLhyphen"/>ſes with the <hi>Turke</hi> to invite him to the ruine of all <hi>Jtaly.</hi> It pleaſed his divine Majeſty, to end in a happy and much deſi<g ref="char:EOLhyphen"/>red peace, and this with ſo much caſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſpeed, that he whoſe underſtanding is not blinded, cannot chuſe but con<g ref="char:EOLhyphen"/>feſſe, that Kingdoms, and States, are onely his gifts, who is the God of Heaſts, I may not omit to relate unto you, the
+<pb n="2" facs="tcp:161658:3"/> glorious cataſtrophe of this Tragedy; for though a more elo<g ref="char:EOLhyphen"/>quent pen may undertake it, none ſhall tell it more ingenu<g ref="char:EOLhyphen"/>ouſly, and truely then I will do.</p>
+            <p>His Excel. therefore the <hi>Coud d'Ognate</hi> Viceroy of <hi>Naples,</hi> having been adviſed that the <hi>French</hi> Fleete, was preparing in all diligence to come and ſuccour the people, and that the <hi>Spaniard</hi> was not in a ſufficient forwardnes to prevent it, and that the leavies made at <hi>Rome,</hi> marched on but ſlowly, and that even great part of them was of necesſity to ſtop in the way to reinforce the cheif holds in <hi>Abruzzo,</hi> ſuppoſing the perpetuall invaſions the <hi>French</hi> made in that province, having already taken ſome places, and ſtill reinforcing with new ſup<g ref="char:EOLhyphen"/>plies of Souldiers, Commanders, and ammunition. And fur<g ref="char:EOLhyphen"/>ther perceiving that the men he expected from <hi>Milan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> came not, he was extreamly aflicted, apprehending that he ſhou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d not manage his Majeſties affaires with that happyneſſe as he had promiſed unto himſelfe.</p>
+            <p>Yet deſiring at leaſt to make his ſervice appeare remarkable by ſome glorious enterpriſe; having viſited all the fortifica<g ref="char:EOLhyphen"/>tions &amp; works the <hi>Spinads</hi> had, &amp; the Caſtle of Saint <hi>Elmo,</hi> providing each with all ſort of ammunition; on <hi>Thurſday</hi> the ſecond day of <hi>Aprill,</hi> he imbarqued wi h the field Maſter Generall, <hi>Dionyſio d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Guſman,</hi> and other Commanders to goe viſit the Iſland of <hi>Niſita,</hi> where he made accompt the French fleet would caſt Anchor; leaving there two peices of Artille<g ref="char:EOLhyphen"/>ry, and fifty Spanyards; a ſufficient proviſion, as was eſteemed, for that time. This ſerved as an iſſue to draw thither the bad humors, and ſo to free the more noble parts of the body, for the Duke of <hi>Guiſe</hi> reſolving to ſecure that place where the Fleet he ſo much longed for, was to an<g ref="char:EOLhyphen"/>ker, haſtned with 300. Horſe to the Captaine of <hi>Puſſilipo,</hi> right againſt the aforeſaid Iſland, that he might there build a Fort which might command it.</p>
+            <p>This abſence of the Dukes out of <hi>Naples,</hi> ſeemed unto his Excellencie a moſt fit opportunity to put in execution the enterpriſe hee had deſigned. Wherefore not confiding in the weakneſſe of his armes, but in the aſſiſtance he expected
+<pb n="3" facs="tcp:161658:3"/> from heaven; he reſolved in the meane time to give an aſ<g ref="char:EOLhyphen"/>ſault upon ſome of the Fortifications made by the people. According to which reſolution, he gave order, that the Com<g ref="char:EOLhyphen"/>manders ſhould be furniſhed with neceſſary proviſion, and he demanded a liſt of the <hi>Spaniards,</hi> which could be ſpared for this purpoſe; the which he found to bee farre inferior in number to what was neceſſary for ſuch an enter<g ref="char:EOLhyphen"/>priſe.</p>
+            <p>On Sunday at night, the fifth of the ſaid Moneth, his Ex<g ref="char:EOLhyphen"/>cellency acquainted his Highneſſe, <hi>Don John d' Auſtria</hi> with his deſigne, who much approving ſo generous a reſolu ion, ſent for the N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bility, and laid before them their obligation, and the example his Excellencie gave them, who was come to <hi>Naples,</hi> out of pure obedience, to ſerve his Catholik Ma<g ref="char:EOLhyphen"/>jeſtie, at a time it ſeemed to every one impoſſible to reduce that people, and part of that Kingdome to their duty, expo<g ref="char:EOLhyphen"/>ſing his life to ſo many dangers, for his King and his ſubjects, who were there preſent. And he repreſented alſo unto them, the want he had at that time of men, and other proviſions, for ſuch a buſineſſe; wherefore in correſpondence of their af<g ref="char:EOLhyphen"/>fection towards him, he required of them all to meet againe ſecretly in the ſame place, at midnight, with their Armes, and ſuch truſty men, as they could lead on an enterpriſe, where his Excellencie would appeare in the head of them.</p>
+            <p>They all <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red their lives in his highneſſe ſervice, as be<g ref="char:EOLhyphen"/>came loyall and faithfull vaſſals of his Majeſty. And though in regard the number was ſo ſmall, the Enterpriſe ſeemed not only hard but Raſh; yet the Duke of Guiſes abſence gave him hopes of a proſperous ſucceſſe. But he did moſt of all rely on the aſſiſtance he expected from his Divine Majeſtie, whoſe helpe he commanded all to implore, and for that purpoſe or<g ref="char:EOLhyphen"/>dered prayer to be made in all the Chu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ches; forbidding all his Souldiers under moſt grevious and exemplar puniſhments all ſorts of exceſſe, and deboiſtnes.</p>
+            <p>At midnight, the Nobillity met togeather, with thoſe they brought along with them; and they diſpoſed them<g ref="char:EOLhyphen"/>ſelves for the attempt, and marched quietly along
+<pb n="4" facs="tcp:161658:4"/> to Ieſus Church; and his highneſſe would needs accompany them, who togeather with the Count and other Comman<g ref="char:EOLhyphen"/>ders entred into the ſaid Church, where after that they had prayed a while, the Count went forth to ſee whether all was ready for the aſſault, according as he had appointed, his high<g ref="char:EOLhyphen"/>neſſe remaining <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>till in the Church.</p>
+            <p>And his Excelencie having found all things in order, he told them the ſigne at which they were to begin their aſſault, and ſo returned back into the Church, and ſoone after he gave the ſigne, to fall on the trenches and other workes. The on<g ref="char:EOLhyphen"/>ſet began at the gate called <hi>Porta Alba,</hi> where they found ſome reſiſtance of the People, &amp; ſome blood was ſpilt on both ſides. But finally ours brake through, and Marched on to the other gates, which they gain'd without any reſiſtance; and then they heard them cry out from within the City, <hi>Viva Spagna<g ref="char:punc">▪</g>
+               </hi> At which acclamation, his Excellencie entred the Ci<g ref="char:EOLhyphen"/>ty with his men, and his Highneſſe expected at the Gates, guarded by the Nobility unto whom he gave expreſſe com<g ref="char:EOLhyphen"/>mand not to enter without his Order.</p>
+            <p>Upon his Excelences arrivall, the ſame acclamations en<g ref="char:EOLhyphen"/>creaſed, and many of the more civill ſort of people accom<g ref="char:EOLhyphen"/>panied him with their ſwords drawn, crying out all in one voice; <hi>God ſave the King, our Soueraigne.</hi>
+            </p>
+            <p>Then the Cardinall, Archbiſhop <hi>Filomarino,</hi> mett him in Coache, and his Exelencie alſo lighted; But preſently both of them got up againe on Horſback. And ſoone after came the chiefe man amongſt the people, called <hi>the Elect of the People,</hi> who caſting himſelfe at the <hi>Condes</hi> feete, crying out with a loud voyce, that in the name of all the people, he came to tender him obedience, as to the Kings Vice-roy, whom God preſerve. His Excellency underſtanding who he was, bade him riſe, and get up on horſe-back.</p>
+            <p>And paſsing by the Priſons, he commanded all the priſo<g ref="char:EOLhyphen"/>ners to be ſet free, except onely the French, the cauſe of whoſe impriſonment he would firſt know, before he would let them enjoy the favour.</p>
+            <p>Being come to the Market-place, his Excellency found ſuch
+<pb n="5" facs="tcp:161658:4"/> a multitude of people, that he could ſcarce break through, and it ſeemed a raſhneſſe to adventure it. But His Excellency made his way, the people crying out with acclamations of joy and praiſe, upon the King and Count.</p>
+            <p>And ſo he came to the great Tower to the <hi>Carmelites,</hi> where <hi>Iennaro Anneſſe,</hi> the Peoples cheife Commander, made a ſhew of reſiſting; but preſently demanded that three of the Nobility whom he aſked for by name, would come. But theſe being abſent, as remaining ſtill with his highneſſe, the Arch-Biſhop went up firſt, and then the Count; and after a ſhort time, thoſe within came all down; and they preſented to His Excellency the keys of the Tower, who gave them to keep to <hi>Don Alvaro della Torre.</hi>
+            </p>
+            <p>His Highneſſe was now acquainted from His Excellency of the happineſſe of the ſucceſſe, and that he might freely come forward. He did ſo: and being arrived, with the Nobility nigh the Tower, <hi>Genna<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o Anneſe,</hi> as he was inſtructed by the Count, caſt himſelf at his feet.</p>
+            <p>But his Highneſſe having ſet at liberty, the Duke of <hi>Turci</hi> and his Nephew, who were Priſoners, entred with all his treaſure into the <hi>Carmelites</hi> Church, and cauſed the <hi>Te Deum</hi> to be ſong. After which, his Highneſſe mounted on Horſe<g ref="char:EOLhyphen"/>backe, and accompanied with all the Nobility, he rode about the Citie, with an incredible joy to all the people, who cried out, not onely in the ſtreets, but alſo out of the windowes, <hi>Viva Spagna,</hi> beſtowing freely on the Souldiers a refreſh<g ref="char:EOLhyphen"/>ment.</p>
+            <p>The Ceremonie ended, the Archbiſhop went home, and his Highneſſe, and his followers retyred to the Palace; ſtill accompanied with the ſignes of a common joy, and acclama<g ref="char:EOLhyphen"/>tions of the people, which laſted for divers dayes, crying out, <hi>God ſave the King of Spaine, and the Count of Ognale, who hath brought us this Peace.</hi> Before his Highneſſe was come to the Duke of <hi>Guiſes</hi> houſe, the people had ſacked it, without doing any further harme to any creature.</p>
+            <p>The notice of this happy ſucceſſe being brought to <hi>Capua, Luys Roderico,</hi> Governour of the Armes in thoſe parts, mar<g ref="char:EOLhyphen"/>ched
+<pb n="6" facs="tcp:161658:5"/> out with 1500. Foot, and tooke S. <hi>Maria de Capua;</hi> where having underſtood, whither the Duke of <hi>Guiſe</hi> was fled, he gave order to <hi>Don Proſpero Tutt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>villo,</hi> and <hi>D. Toma<g ref="char:EOLhyphen"/>ſo Guiriaſo</hi> to lay wait for him with ſome Troops of Horſe, who lighting on the Duke, tooke him Priſoner, ond brought him to the Fort of <hi>Capua,</hi> with 25. of his followers.</p>
+            <p>Vpon the newes, many Cities round about returned to their Kings obedience; and it is hoped the reſt will do the ſame, even in <hi>Abruzzo</hi> where the French have moſt footing, and have ſtrengthened ſome places, having taken 2. daies be<g ref="char:EOLhyphen"/>fore the City of Aquila, from whence they battered the Fort, the which was otherwiſe well provided except of men, foure thouſand together with the Governour being marched out to ſuccour <hi>Peſcara,</hi> a Fort of very great importance.</p>
+            <p>This is the ſtory of an exploit, which may be accompted miraculous, not only in regard of the aforeſaid circumſtances, but alſo for hapning on <hi>Palme-Sunday,</hi> the day of our Savi<g ref="char:EOLhyphen"/>ours Triumph; by whoſe particular protection, the Catho<g ref="char:EOLhyphen"/>like King hath obtained this favour.</p>
+            <p>Together with the impriſonment of the Duke of <hi>Guiſe,</hi> and libertie of the Duke of <hi>Turſis.</hi>
+            </p>
+            <argument>
+               <p>THis Relation was ſent from the Vice King of <hi>Naples,</hi> to the <hi>Spaniſh Embaſſador,</hi> now Reſident in <hi>England.</hi>
+               </p>
+            </argument>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
